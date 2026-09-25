@@ -1,0 +1,9 @@
+{
+  "dup_key_code": "E_DUP_KEY",
+  "attrs": [
+    [["Name", "Alice"], ["City", "BJ"]],
+    [["city", "BJ"], ["name", "alice"]],
+    [["Name", "Alice"], ["City", "SH"]]
+  ],
+  "case_fold": true
+}
